@@ -281,8 +281,8 @@ This is a demonstration platform showcasing advanced integration patterns. To ex
 
 ## 📄 License
 
-MIT License - feel free to use this platform as a foundation for your own integration systems.
-
+NO licence Contaxt Dev 
+contactdavidyoung@gmail
 ---
 
 **Built with ❤️ using Next.js 15, TypeScript, and modern web technologies**
