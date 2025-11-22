@@ -281,7 +281,7 @@ This is a demonstration platform showcasing advanced integration patterns. To ex
 
 ## 📄 License
 
-NO licence Contaxt Dev 
+NO licence Contact Dev 
 contactdavidyoung@gmail
 ---
 
